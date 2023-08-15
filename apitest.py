@@ -1,9 +1,9 @@
 import requests
 import json
-url_aws = 'https://d5b0183h6j.execute-api.eu-central-1.amazonaws.com/beta'
+url_aws = ''
 
 headers = {
-    "x-api-key" :"gkBrri7sq88IC0ArmoR6R28aTjM8qfji9BGwHcHs",
+    "x-api-key" :"",
     "Content-Type": "application/json"}
 string ="""### human: Act as a girlfriend.
 
